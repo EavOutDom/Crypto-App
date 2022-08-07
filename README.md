@@ -1,1 +1,1 @@
-# cyptocurrency-website-starter
+# cyptocurrency-website
