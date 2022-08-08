@@ -6,6 +6,8 @@ import "aos/dist/aos.css";
 import { useEffect } from "react";
 import NavMobile from "./components/NavMobile";
 import Stats from "./components/Stats";
+import Why from "./components/Why";
+import Calculator from "./components/Calculate";
 
 const App = () => {
     const [navMobile, setNavMobile] = useState(false);
@@ -30,6 +32,9 @@ const App = () => {
                 <NavMobile setNavMobile={setNavMobile} />
             </div>
             <Stats />
+            <Why />
+            <Calculator />
+            <div className={"h-[2000px]"}></div>
         </div>
     );
 };
