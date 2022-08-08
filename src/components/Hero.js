@@ -34,7 +34,7 @@ const Hero = () => {
                             crytoverse.
                         </h1>
                         <p
-                            className={"max-w-[440px] mb-8 leading-relaxed"}
+                            className={"max-w-[440px] leading-relaxed"}
                             data-aos="fade-down"
                             data-aos-delay="600"
                         >
@@ -42,7 +42,7 @@ const Hero = () => {
                             platform with $30 billion in transactions
                         </p>
                         <button
-                            className="btn gap-x-6 pl-6 lg:h-16 text-sm lg:text-base"
+                            className="btn gap-x-6 pl-6 lg:h-16 text-sm lg:text-base my-10"
                             data-aos="fade-down"
                             data-aos-delay="700"
                         >
@@ -54,7 +54,7 @@ const Hero = () => {
                     </div>
                     <div
                         className="flex-1"
-                        data-aos="fade-down"
+                        data-aos="fade-up"
                         data-aos-delay="600"
                     >
                         <img src={Image} alt="hero" />
