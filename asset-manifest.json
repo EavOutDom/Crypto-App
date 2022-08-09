@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Crypto-App/static/css/main.6907e47f.css",
+    "main.js": "/Crypto-App/static/js/main.5337cba0.js",
+    "static/media/newsletter-bg.png": "/Crypto-App/static/media/newsletter-bg.a5d5358de8e84afe98cb.png",
+    "static/media/hero-img.png": "/Crypto-App/static/media/hero-img.bc2cc512f513aaa9f0bf.png",
+    "static/media/feature-2-img.png": "/Crypto-App/static/media/feature-2-img.cf233659a120d86cd676.png",
+    "static/media/feature-3-img.png": "/Crypto-App/static/media/feature-3-img.5df40cff033a1a81e9d1.png",
+    "static/media/why-img.png": "/Crypto-App/static/media/why-img.83f7e1610dd390441337.png",
+    "static/media/feature-1-img.png": "/Crypto-App/static/media/feature-1-img.3ebec6b2c18fd2e8cb8f.png",
+    "static/media/newsletter-box.png": "/Crypto-App/static/media/newsletter-box.dd5db68847295ec1ef17.png",
+    "static/media/logo.svg": "/Crypto-App/static/media/logo.d0d58adf998969112333ef06bb5b2f86.svg",
+    "index.html": "/Crypto-App/index.html",
+    "main.6907e47f.css.map": "/Crypto-App/static/css/main.6907e47f.css.map",
+    "main.5337cba0.js.map": "/Crypto-App/static/js/main.5337cba0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6907e47f.css",
+    "static/js/main.5337cba0.js"
+  ]
+}
