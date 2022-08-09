@@ -8,6 +8,10 @@ import NavMobile from "./components/NavMobile";
 import Stats from "./components/Stats";
 import Why from "./components/Why";
 import Calculator from "./components/Calculate";
+import Trade from "./components/Trade";
+import Newsletter from "./components/Newsletter";
+import Features from "./components/Features";
+import Footer from "./components/Footer";
 
 const App = () => {
     const [navMobile, setNavMobile] = useState(false);
@@ -34,7 +38,10 @@ const App = () => {
             <Stats />
             <Why />
             <Calculator />
-            <div className={"h-[2000px]"}></div>
+            <Trade />
+            <Features />
+            <Newsletter />
+            <Footer />
         </div>
     );
 };
